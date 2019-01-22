@@ -5,7 +5,7 @@
     },
     "proxies": {
         "/api": {
-            "origin": "https://msena-warbler-server.herokuapp.com"
+            "origin": "https://msena-warbler-server.herokuapp.com/api"
         }
     }
 }
